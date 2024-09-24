@@ -1,0 +1,2 @@
+JUnit 5.7.0
+Java 11 (or higher)
