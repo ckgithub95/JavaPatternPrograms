@@ -29,6 +29,12 @@ public class Main {
         System.out.println("Inverted Right-Angle Triangle Pattern:");
         Pattern.printRightDownTrianglePattern(size);
 
+        System.out.println("Right Left Triangle Pattern:");
+        printRightLeftTrianglePattern(size);
+
+        System.out.println("Symmetrical Pattern:");
+        printSymmetricalPatte(size);
+
         sc.close();
     }
 }
